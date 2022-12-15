@@ -19,7 +19,7 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 
 <h2 align="center">Level 2 - Term 2</h2>
 
-- [**CSE208 - CSE204 - Data Structures and Algorithms II-Sessional**](https://github.com/fardinanam/Data-Structures-and-Algorithms-II)
+- [**CSE208 - Data Structures and Algorithms II-Sessional**](https://github.com/fardinanam/Data-Structures-and-Algorithms-II)
 - **CSE216 - Database-Sessional**
     - [Solution to the book `A brief introduction to Oracle SQL PLSQL`](https://github.com/fardinanam/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions)
     - [Term project (RentaStay)](https://github.com/fardinanam/RentaStay)
