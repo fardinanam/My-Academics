@@ -37,11 +37,11 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 - **CSE216 - Database-Sessional**
     - **Solution to the book `A brief introduction to Oracle SQL PLSQL`**
 
-        [![fardinanam/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/fardinanam/Data-Structures-and-Algorithms-I.svg)](https://github.com/fardinanam/Data-Structures-and-Algorithms-I)
+        [![fardinanam/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions - GitHub](https://gh-card.dev/repos/fardinanam/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions.svg)](https://github.com/fardinanam/A-brief-introduction-to-Oracle-SQL-PLSQL-solutions)
 
     - **Term project (RentaStay)**
 
-        [![fardinanam/Data-Structures-and-Algorithms-I - GitHub](https://gh-card.dev/repos/fardinanam/Data-Structures-and-Algorithms-I.svg)](https://github.com/fardinanam/Data-Structures-and-Algorithms-I)
+        [![fardinanam/RentaStay - GitHub](https://gh-card.dev/repos/fardinanam/RentaStay.svg)](https://github.com/fardinanam/RentaStay)
 
 <h2 align="center">Level 3 - Term 1</h2>
 
