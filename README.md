@@ -1,14 +1,22 @@
 # My-Undergraduate-Academics
 Courses offered by Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET)
 
-<h2 align="center">Level 1 - Term 1</h2>
+# Table of Contents
+- [Level 1 - Term 1](#11)
+- [Level 1 - Term 2](#12)
+- [Level 2 - Term 1](#21)
+- [Level 2 - Term 2](#22)
+- [Level 3 - Term 1](#31)
+- [Level 3 - Term 2](#32)
+
+<h2 align="center" id="11">Level 1 - Term 1</h2>
 
 - **CSE102 - Structured Programming Language-Sessional**
     - **Term project (Flaming Tires 2D)**
     
         [![fardinanam/FlamingTires2D - GitHub](https://gh-card.dev/repos/fardinanam/FlamingTires2D.svg)](https://github.com/fardinanam/FlamingTires2D)
 
-<h2 align="center">Level 1 - Term 2</h2>
+<h2 align="center" id="12">Level 1 - Term 2</h2>
 
 - **CSE108 - Object Oriented Programming Language-Sessional**
     - **Final offline back-end**
@@ -18,7 +26,7 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 
         [![fardinanam/Car-Showroom - GitHub](https://gh-card.dev/repos/fardinanam/Car-Showroom.svg)](https://github.com/fardinanam/Car-Showroom)
 
-<h2 align="center">Level 2 - Term 1</h2>
+<h2 align="center" id="21">Level 2 - Term 1</h2>
 
 - **CSE204 - Data Structures and Algorithms I-Sessional**
 
@@ -28,7 +36,7 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 
     [![fardinanam/Numerical-Methods - GitHub](https://gh-card.dev/repos/fardinanam/Numerical-Methods.svg)](https://github.com/fardinanam/Numerical-Methods)
 
-<h2 align="center">Level 2 - Term 2</h2>
+<h2 align="center" id="22">Level 2 - Term 2</h2>
 
 - **CSE208 - Data Structures and Algorithms II-Sessional**
     
@@ -43,7 +51,7 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 
         [![fardinanam/RentaStay - GitHub](https://gh-card.dev/repos/fardinanam/RentaStay.svg)](https://github.com/fardinanam/RentaStay)
 
-<h2 align="center">Level 3 - Term 1</h2>
+<h2 align="center" id="31">Level 3 - Term 1</h2>
 
 - **CSE306 - Computer Architecture-Sessional**
 
@@ -65,3 +73,33 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
     - **Term project (Laser Security System)**
 
         [![fardinanam/Laser-Security-System-With-Arduino - GitHub](https://gh-card.dev/repos/fardinanam/Laser-Security-System-With-Arduino.svg)](https://github.com/fardinanam/Laser-Security-System-With-Arduino)
+
+<h2 align="center" id="32">Level 3 - Term 2</h2>
+
+- **CSE314 - Operating Systems-Sessional**
+    
+    [![fardinanam/CSE314-Operating-System-Sessional - GitHub](https://gh-card.dev/repos/fardinanam/CSE314-Operating-System-Sessional.svg)](https://github.com/fardinanam/CSE314-Operating-System-Sessional)
+
+- **CSE318 - Artificial Intelligence-Sessional**
+
+    [![fardinanam/CSE318-AI-Sessional - GitHub](https://gh-card.dev/repos/fardinanam/CSE318-AI-Sessional.svg)](https://github.com/fardinanam/CSE318-AI-Sessional)
+
+- **CSE322 - Computer Networks-Sessional**
+    
+    - **Cisco Packet Tracer Socket Programming, NS2, offlines, onlines, practices, **
+
+        [![fardinanam/CSE322-Computer-Networks-Sessional - GitHub](https://gh-card.dev/repos/fardinanam/CSE322-Computer-Networks-Sessional.svg)](https://github.com/fardinanam/CSE322-Computer-Networks-Sessional)
+
+    - **Term project (Flexible Random Early Detection simulation in NS2)**
+
+        [![fardinanam/CSE322-Computer-Networking-Project-FXRED-Implementation-In-NS2 - GitHub](https://gh-card.dev/repos/fardinanam/CSE322-Computer-Networking-Project-FXRED-Implementation-In-NS2.svg)](https://github.com/fardinanam/CSE322-Computer-Networking-Project-FXRED-Implementation-In-NS2)
+
+- **CSE326 - Information System Design-Sessional**
+
+    - **Scope Fixation, BPMN, Mock UI, Class Diagram, ERD, Collaboration Diagram, Sequence Diagram, State Diagram**
+
+        [![niananto/Creative-Production-Management - GitHub](https://gh-card.dev/repos/niananto/Creative-Production-Management.svg)](https://github.com/niananto/Creative-Production-Management)
+    
+    - **Demo Website on Estimation**
+
+        [![fardinanam/Creative-Production-Management-Website - GitHub](https://gh-card.dev/repos/fardinanam/Creative-Production-Management-Website.svg)](https://github.com/fardinanam/Creative-Production-Management-Website)
