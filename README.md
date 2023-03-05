@@ -1,7 +1,7 @@
 # My-Undergraduate-Academics
 Courses offered by Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET)
 
-# Table of Contents
+## Table of Contents
 - [Level 1 - Term 1](#11)
 - [Level 1 - Term 2](#12)
 - [Level 2 - Term 1](#21)
