@@ -8,6 +8,7 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 - [Level 2 - Term 2](#22)
 - [Level 3 - Term 1](#31)
 - [Level 3 - Term 2](#32)
+- [Level 4 - Term 1](#41)
 
 <h2 align="center" id="11">Level 1 - Term 1</h2>
 
