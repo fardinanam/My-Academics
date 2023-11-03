@@ -103,3 +103,17 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
     - **Demo Website on Estimation**
 
         [![fardinanam/Creative-Production-Management-Website - GitHub](https://gh-card.dev/repos/fardinanam/Creative-Production-Management-Website.svg)](https://github.com/fardinanam/Creative-Production-Management-Website)
+
+<h2 align="center" id="41">Level 4 - Term 1</h2>
+
+- **CSE406 - Computer Security Sessional**
+
+    [![fardinanam/CSE406-Computer-Security - GitHub](https://gh-card.dev/repos/fardinanam/CSE406-Computer-Security.svg)](https://github.com/fardinanam/CSE406-Computer-Security)
+
+- **CSE410 - Computer Graphics**
+
+    [![fardinanam/CSE410-Computer-Graphics - GitHub](https://gh-card.dev/repos/fardinanam/CSE410-Computer-Graphics.svg)](https://github.com/fardinanam/CSE410-Computer-Graphics)
+
+- **CSE408 - Software Development**
+
+    [![fardinanam/SyncInc - GitHub](https://gh-card.dev/repos/fardinanam/SyncInc.svg?fullname=)](https://github.com/fardinanam/SyncInc)
