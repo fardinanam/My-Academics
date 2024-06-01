@@ -118,3 +118,13 @@ Courses offered by Department of Computer Science and Engineering (CSE) at Bangl
 - **CSE408 - Software Development**
 
     [![fardinanam/SyncInc - GitHub](https://gh-card.dev/repos/fardinanam/SyncInc.svg?fullname=)](https://github.com/fardinanam/SyncInc)
+
+<h2 align="center" id="42">Level 4 - Term 2</h2>
+
+- **CSE412 - Simulation And Modeling**
+
+    [![fardinanam/CSE412-Simulation-And-Modeling - GitHub](https://gh-card.dev/repos/fardinanam/CSE412-Simulation-And-Modeling-Sessional.svg)](https://github.com/fardinanam/CSE412-Simulation-And-Modeling-Sessional)
+
+- **CSE472 - Machine Learning**
+
+    [![fardinanam/CSE472-Machine-Learning - GitHub](https://gh-card.dev/repos/fardinanam/CSE472-Machine-Learning-Sessional.svg)](https://github.com/fardinanam/CSE472-Machine-Learning-Sessional)
